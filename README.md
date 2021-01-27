@@ -35,13 +35,7 @@ title_id = "545407DF"
 
 1. Download the [ZIP](https://github.com/xenia-canary/game-patches/archive/main.zip) file.
 
- - To download individual patch file:
-
-  Open patch file on GitHub
-
-  Click `Raw` and save page as.
-
-2. Create or extract the patches folder to where your Xenia Canary executable is located.
+2. Extract the patches folder to where your Xenia Canary executable is located.
 
 <details><summary>Image (Click to Expand)</summary>
 
@@ -50,3 +44,9 @@ title_id = "545407DF"
 </details>
 
 3. To enable patches (if they're not already enabled by default), open the .patch file that corresponds to your game's ID with a text editor (Notepad, Notepad++, VSCode, etc.), and set `is_enabled` from `false` to `true`
+
+#### Installing individual patch
+
+1. Open patch file on GitHub
+
+2. Click `Raw` and save page as.
