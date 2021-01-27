@@ -50,3 +50,7 @@ title_id = "545407DF"
 1. Open patch file on GitHub
 
 2. Click `Raw` and save page as.
+
+3. Place file into `patches` folder.
+
+4. Enable patch if not already enabled by default.
