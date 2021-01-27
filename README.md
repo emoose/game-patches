@@ -10,7 +10,7 @@ This repository contains Game Patches available for the Xenia Emulator.
 
  - This new file must be named `[Title ID].patch` - For example, a patch file for Halo 3 must be called `4D5307E6.patch` (All uppercase)
 
-- File must contain empty line at end of file.
+ - File must contain empty line at end of file.
 
 Example of the contents that should be included in the file:
 <details><summary>Example (Click to Expand)</summary>
@@ -35,7 +35,13 @@ title_id = "545407DF"
 
 1. Download the [ZIP](https://github.com/xenia-canary/game-patches/archive/main.zip) file.
 
-2. Extract the patches folder to where your Xenia Canary executable is located.
+ - To download individual patch file:
+
+  Open patch file on GitHub
+
+  Click `Raw` and save page as.
+
+2. Create or extract the patches folder to where your Xenia Canary executable is located.
 
 <details><summary>Image (Click to Expand)</summary>
 
