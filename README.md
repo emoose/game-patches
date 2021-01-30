@@ -33,11 +33,11 @@ title_id = "545407DF"
 
 ### For Developers
 
-Plugins for load Xbox 360 executables. Only useful for developers.
+Plugins for loading Xbox 360 executables. Only useful for developers.
 
-Breakpoints can be set in Cheat Engine or MSVC with `emit_source_annotations`
+Breakpoints can be set in CE or MSVC with `emit_source_annotations`
 
-[IDA XEX Loader](http://xorloser.com/blog/?p=395)
+[IDA 6 XEX Loader](http://xorloser.com/blog/?p=395)
 
 [Ghidra XEX Loader](https://github.com/zeroKilo/XEXLoaderWV/releases)
 
