@@ -31,6 +31,16 @@ title_id = "545407DF"
 ```
 </details>
 
+### For Developers
+
+Plugins for load Xbox 360 executables. Only useful for developers.
+
+Breakpoints can be set in Cheat Engine or MSVC with `emit_source_annotations`
+
+[IDA XEX Loader](http://xorloser.com/blog/?p=395)
+
+[Ghidra XEX Loader](https://github.com/zeroKilo/XEXLoaderWV/releases)
+
 ### Installing
 
 1. Download the [ZIP](https://github.com/xenia-canary/game-patches/archive/main.zip) file.
